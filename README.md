@@ -23,9 +23,9 @@ You should have received a copy of the GNU Affero General Public License
 along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
 Want to use Morphic.js but scared by the open-source license? Get in touch,
-we'll make it work.
-
-[Minimal morphic](/minimal.html)
-[Morphic](/morphic.html)
-[Multiple](/multiple.html)
+we'll make it work.  
+  
+[Minimal morphic](/minimal.html)  
+[Morphic](/morphic.html)  
+[Multiple](/multiple.html)  
 [Sample](/sample.html)
